@@ -1,0 +1,74 @@
+general education program
+http://www.cecs.ucf.edu/documents/programs/GENEDCS.pdf
+
+
+
+2-3 yrs - network secturity and programming @ pbsc
+-july 1st app deadline for UCF transfer students
+
+
+3 yrs- complete sophmore year bachelors in cs
+	computer science foundation exam
+
+
+minor in cognitive sciences
+http://www.ucf.edu/academics/cognitive-sciences/
+
+
+4th yr Apply for bs+ms upon completing 60th credit hr
+	take GRE
+For more information on the BS+MS, contact: 
+Dr. Hassan Foroosh, CS Graduate Program Coordinator 
+BSMSinCS@eecs.ucf.edu
+
+
+
+5th yr - finish ms
+
+
+E. SYNOPSIS/TIMELINE
+1) Admission into the PhD program
+2) File an initial Plan of Study (By the 9th credit hour)
+3) Obtain an advisor
+4) Qualifying Review (Between 19th and 37th credit hour)
+5) Form a Dissertation Advisory Committee
+6) Candidacy (Paper acceptance)
+7) Dissertation Proposal
+8) Dissertation Defense
+
+intern program... somewhere in all this
+
+http://www.twc.edu/prospective/program/finder?p=18262,16061
+
+
+
+graduate interests
+
+CNT
+CDA
+
+CAP
+CAP 5512. Evolutionary Computation
+CAP 5610. Machine Learning
+CAP 5636. Advanced Artificial Intelligence
+CAP 6133. Advanced Topics in Computer Security and Computer Forensics
+CAP 6640. Computer Understanding of Natural Language
+CAP 6671. Intelligent Systems: Robots, Agents, and Humans
+CAP 6675. Complex Adaptive Systems
+CAP 6676. Knowledge Representation
+*CAP 6721. Ray Tracing
+
+COT
+COT 6600. Quantum Computing
+COT 6602. Introduction to Quantum Information Theory
+COT 6415. Complexity of Parallel Computation
+COT 6410. Computational Complexity
+COT 5405. Design and Analysis of Algorithms
+
+
+COP
+COP 5021. Program Analysis
+COP 5611. Operating Systems Design Principles
+COP 5711. Parallel and Distributed Database Systems
+COP 6087. Cloud Computing
+COP 6616. Multicore Programming

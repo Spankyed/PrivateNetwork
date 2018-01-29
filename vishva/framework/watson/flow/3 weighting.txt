@@ -1,0 +1,8 @@
+The summaries the search engine return contain the query
+terms, usually with a few words of surrounding
+context. The summary text is processed in accordance
+with the patterns specified by the rewrites. 
+
+the final weight of a summary is based on the weights
+associated with the rewrite rules that generated it
+and the number of unique summaries returned

@@ -1,0 +1,2 @@
+this phrase is given a confidence score. 
+classify with phrase and confidence scoer

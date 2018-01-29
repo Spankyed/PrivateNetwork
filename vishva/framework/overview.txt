@@ -1,0 +1,14 @@
+1. Connect Game Engine, BablyonJS, to framework 
+2. Connect Watson Discovery Service 
+3. Put Online DEMO
+···Import scene into game engine
+···Configure conversation Workspace
+···Configure Watson Discovery Docs
+4. Develop World Editor
+5.
+
+| Component          |    Status     |
+| ------------------ | ------------- |
+| Chat bot Framework | Under Dev     |
+| World Editor       | Not Started   |
+| Phone Application  | Not Started   |

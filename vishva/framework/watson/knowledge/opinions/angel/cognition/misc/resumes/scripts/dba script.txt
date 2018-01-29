@@ -1,0 +1,37 @@
+LISTEN to him, environment. 
+Think before you speak. 
+Talk about what YOU can do. 
+PLEASE, have manners.
+
+interview on laptop to type
+
+BE EMPHATIC, empathatic. WCS You weren't going to get the job anways
+
+questions
+tell me moar about the job, new data center read Department Newsletter. oracle, is it RAC(real applcation cluster) 12c system? grid infrastructure. database-master slave DBS. service oriented architecture/environment (SOA) . pl/sql(like the syntax)
+
+I understand alot can go wrong. Worried whoever will break something. can give me a sense duties of this position, what can go wrong? Measures of Accountability for DBA.
+
+-recovering- undo retention period(trans log), RTO/RPO- recovery time/point objectiv 
+1)backup strategies: Ik am the primarily responsible for downtime and data loss, even if its not in the job description - recovery models
+-performance, availability 
+2)Improve SQL Config: am I responsible for database and server config, inhance USABILITY-prioritize(tie)
+-integrity
+3)Plan Smart changes: alot can go wrong - know to ask why change; what ima do: roll out,back; think worst thing can heppn while doing this
+
+is it network administor too - setup and config hardware
+assist application administors in configuration- performance or modeling(table links)
+
+
+watched alot of vids on DBA but interested in how you recommend i best prepare for this potential position with the ISS department
+
+while there might be more experienced, no one more dedicated to learning and being successful
+
+hope to hear from you soon, and hope u have good day
+
+
+
+apply desktop support position
+send thank you letter to ogo
+retake american history
+tilty head to left when playing with hair

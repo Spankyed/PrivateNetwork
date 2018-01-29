@@ -1,0 +1,6 @@
+Given a question, the system generates a number
+of weighted rewrite strings which are likely substrings
+of declarative answers to the question.
+
+For example, “When was the paper clip invented?” is
+rewritten as “The paper clip was invented”. 

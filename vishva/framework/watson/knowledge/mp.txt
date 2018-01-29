@@ -1,0 +1,22 @@
+Purpose: to engineer how users receive information
+
+ASSERTION(questions)
+EVIDENCE(activities)
+
+/recieve questions
+/assess the activities
+/form narrative(individualistic,instructural,outcome based)
+-gather user information to make adjustments from default instructions
+
+
+Functional assessment:
+learn complex patterns to people's seemingly unproductive behavior. Pay attention to consequences that follow the behavior and the antecedent that evokes the behavior
+
+
+Create assessment questions of activities
+
+*assessing through authentic activity, where performance is linked directly to process
+amsgelena
+
+-----------------
+compounds

@@ -1,0 +1,12 @@
+wks->nlu->nlc->convo->apps
+
+
+wks- create document models that recognize pattern rules, and deploy them for use in other services.
+
+nlu-Analyze text to extract meta-data from user-input/content such as concepts, entities, keywords, categories, sentiment, emotion, relations, semantic roles, using custom annotation models developed in wks 
++Semantic Roles
++Sentiment
++Relations
+
+
+*discovery - realtime visibility

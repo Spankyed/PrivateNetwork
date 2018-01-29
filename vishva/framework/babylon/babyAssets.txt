@@ -1,0 +1,4 @@
+manage schedule
+
+append environmental lighting according to time
+switch between scenes

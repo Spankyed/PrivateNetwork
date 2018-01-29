@@ -1,0 +1,4 @@
+had to manually change date. 
+no where to enter items/unit or units amt
+
+administration to edit minimum amt items, units, special fields.

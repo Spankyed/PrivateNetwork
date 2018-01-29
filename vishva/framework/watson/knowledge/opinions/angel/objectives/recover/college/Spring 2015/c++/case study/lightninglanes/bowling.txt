@@ -1,0 +1,6 @@
+
+      Weekly Bowling Report for Ravens
+
+Name      Last week's avg    Today's avg
+
+angel             23.0              26.7

@@ -1,0 +1,36 @@
+Select, Action, Parameter and Aggregate(AND)
+
+
+Select Query
+The select query is the simplest type of query and because of that, it is also the most commonly used one in Microsoft Access databases. It can be used to select and display data from either one table or a series of them depending on what is needed.
+In the end, it is the user-determined criteria that tells the database what the selection is to be based on. After the select query is called, it creates a "virtual" table where the data can be changed, but at no more than one record at a time.
+
+Action Query
+When the action query is called, the database undergoes a specific action depending on what was specified in the query itself. This can include such things as creating new tables, deleting rows from existing ones and updating records or creating entirely new ones.
+Action queries are very popular in data management because they allow for many records to be changed at one time instead of only single records like in a select query.
+Four kinds of action queries are:
+/Append Query – takes the set results of a query and "appends" (or adds) them to an existing table.
+/Delete Query – deletes all records in an underlying table from the set results of a query.
+/Make Table Query – as the name suggests, it creates a table based on the set results of a query.
+/Update Query – allows for one or more field in your table to be updated.
+
+Parameter Query
+In Microsoft Access, a parameter query works with other types of queries to get whatever results you are after. This is because, when using this type of query, you are able to pass a parameter to a different query, such as an action or a select query. It can either be a value or a condition and will essentially tell the other query specifically what you want it to do.
+It is often chosen because it allows for a dialog box where the end user can enter whatever parameter value they wish each time the query is run. The parameter query is just a modified select query.
+
+Aggregate Query
+A special type of query is known as an aggregate query. It can work on other queries (such as selection, action or parameter) just like the parameter query does, but instead of passing a parameter to another query it totals up the items by selected groups.
+It essentially creates a summation of any selected attribute in your table. This can be further generated into statistical amounts such as averages and standard deviation, just to name a couple.
+The SQL aggregate functions available to Microsoft Access are:
+Sum
+Avg
+Min
+Max
+First
+Last
+Group By
+Count
+StDev
+Var
+Expression
+Where

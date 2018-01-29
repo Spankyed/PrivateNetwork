@@ -1,0 +1,40 @@
+associated with nimble?
+
+infosight - expose, manage, and assess the not so pretty breadth of security risks and information a business faces in a comprensive 'pretty' manner.
+
+goal is to improve the customers posture when dealing with the vulnerabilities of an it infastructure through predictive analytics provided by a predictive flash platform; and do so in a financially flexible way.
+
+proactive wellness 
+
+windows + r
+when troubleshooting
+go slow and take your time. think ahead. better be right than fast.
+
+first: size up situation, figure out issue, communicate with appropriate . sifting the incorrect or irrelevant information
+second: refine issue, find point of contact to adequately resolve let them know what i think is going on and how i should proceed
+third: prioritize multiple issues.
+
+
+be compassionate. underpromise over deliver, dont placate no one is gonna be happy. focus on resolving the issue
+
+to deliver effectively, be proactive, troubleshooting takes time.
+
+Network troubleshooting process of elimination
+check the connection
+check speed
+check duplex mode, half or full
+check driver
+
+use internet
+
+possible question
+tell about handle difficult situation
+
+
+
+
+
+
+
+----------
+part of the reason internet so successful, is the same reason its so insecure. 

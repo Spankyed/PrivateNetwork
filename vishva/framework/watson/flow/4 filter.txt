@@ -1,0 +1,35 @@
+the weighted summaries are filtered and reweighted according
+to how well each candidate matches the
+expected answer-type/query-type, who-what-when-where-howmany
+
+and in accordance with the..
+ 
+Functional assessment:
+
+The purpose of conducting a functional assessment is to identify the function of the target behavior
+
+learned complex patterns to people's seemingly unproductive behavior. Pay attention to consequences that follow the behavior and the antecedent that evokes the behavior
+
+applied behavior analysis can identify the variables that maintain a problem/specific behavior
+
+
+Social positive reinforcement
+Social negative reinforcement
+Automatic positive reinforcement
+Automatic negative reinforcement
+
+
+methods-
+Indirect methods
+Direct observation methods
+Experimental methods
+
+
+1.behavioral interview
+2.develop hypothesis
+3.direct observation
+4.confirm initial hypothesis
+5.conduct functional analysis
+
+interventions-
+extinction, 

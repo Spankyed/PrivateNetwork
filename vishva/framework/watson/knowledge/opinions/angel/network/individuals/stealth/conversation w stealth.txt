@@ -1,0 +1,182 @@
+its not that interesting right now
+especially since its broken
+
+really jus needed to created a app interface to connect to my watson service, thats all been doing for last week with little luck
+
+i tried to do it with react and webpack, failed miserably
+
+so tryna find framework that will allow me to extend the application 
+
+the conversation part is easy
+
+the convo workspace i have now is broken, not gonna fix jus gonna make a new one and copy some stuff, easier that way
+
+but yea its really jus bout connecting the service with an app
+lets see the js
+
+wat i highlighted is the break and butter, connects to the conversation api
+
+the workspace is just the conversation flow that where in
+
+can make multiple workspaces per wrapper or w.e
+
+tryna configure my app to this framework right now,
+then gonna go back to working on the conversation workspace3:26 PM 6/22/2017
+
+cool  i lied eatn rn
+
+we wadoint
+wait
+i havent showed u
+best part
+fiingers dirty sec
+
+alright mate
+so all i jus showed u is bullshit
+
+the conversation is a shitty service alone
+does nothing more than customer service
+
+wat underlies the conversation app and all other services are the document models that inform the watson service how to process the natural language
+
+they released a tool that allows u to edit these models
+its called watson knowledge studio
+the next part isnt easy to explain 
+but ican show u 
+
+So this is the organization for my whole project right now, not including this test shit that im doin thig locally
+
+vishva would be the name of the engine or framework or w.e
+
+u cant call it that, my engine is called vishva
+is it really,
+yea
+i thought ur engine was called arcade builder
+
+thats the game, i decided today, engine called vishva
+
+rofl w.e 2 vishvas or can jus combine them i dont see mutual exclusive
+
+anyways thats the frameowork head
+
+mp is like the readme
+stands for masterplan
+
+bunch of bullshit that means nothing to anybody other than myself right now,
+
+ill try to explain tho
+
+
+
+ok so this is the idea for relates to the chatbot
+
+the bot will try to figure out who the user is, through context variables
+
+that get passed back in fourth through the service and app
+
+it will use another service as well, called discovery
+
+it allows u to parse documents like this one to find relevant information, its not related to conversation but can be used in conjunction
+
+ima have documents with user info that the service will parse to figure out who its talking to to render invidual content
+
+profile the user, in relation to you- this just means what would they say about ur or how would they talk to you, get it?
+
+dont wanna just ask the user who are you. thats not always natural convo
+
+list of not users for my chatbot, but users of the framework, who could potentially extend the framework
+
+jus people i wanna work with because they have resources to make project better, or i feel i should help them use the framework, vishva
+
+again not users in the context of the chatbot
+
+baylon is gonna b whatever im using to work with babylon
+
+right now just some notes
+
+the watson has folder has to do with everything related to watson platform, bluemix. includes conversation service, discovery, and 
+watson knowledge studio(for managing document models for ml algorithms)
+
+thats knowledge
+
+and so they way knowledge works is that you set rules in your document, for certain intent-to-entities relationship. oversimplification, but just know that intent tells what that user is trying to communicate, and entites is what subjects there communicating about like person or organization or object
+
+theres also more relations that text analysis can model but those are most basic, that are used in the conversation service.
+
+this is gonna be the
+
+are u still paying attention?
+
+yeah i get it but its boring
+
+the idea is that u store all ur documents that can be used to indentify idk how to put it.
+
+
+a store for documents that can be useful for creating either meaningful engagements with others through chatbot or for urself, likely too through chatbot.
+
+and so i want to make it so that the chatbot isnt just for visitors, but the creator can benefit from conversing with the app to like create tasks, or do administrative stuff. at the least
+
+and so it will have the information and documents necessary, and know how to parse them, according to preset rules
+
+thats pretty much it
+
+the rest is all philosopcal
+
+pretty cool but its all a bit boring innit
+i guess
+until it becomes meaningful for someone, idk, but anyways
+
+the watson knowledge studio, wks, has can take specific rules to model your document, and i wanna create a rule that identifies if what is being parsed is a base truth(as defined by the text files in this folder) or and opinion
+
+heres some things i believe to be fundementally true
+
+this ones a little vague, but its a truth ive come to myself, thats why its not as succinct as the rest
+
+
+do u take lsd?
+
+ive taken, i dont just go out every weekend buying tabs
+
+microdosed for like a wk or two in college during exams
+prob most i ever used it
+
+ive done alot of philosophy on lsd, but none of my major stuff
+
+day -1 is a play on of day n for hacks
+
+and so day 0 is like a new hack never realisedonly
+
+day -1 is a hack that is not only never realised, but theres something fundemental of the system that disables the creator from finding the hack. thouhg it was cool play on words
+
+this is rest of my bs philosophy most unorganized, cant be asserted as fundemental truths, just opinions.
+
+the idea is tht u have a collection of users who have opinions and philosphies
+
+than click on angels opinions or someone elses
+
+the rest of this stuff is just like 'my documents' but organized
+
+doesnt stand for porn stand for private network
+
+these are files that were lost when i got infected with ransomware, putting a file in there that should be
+
+this is gonna be the flow of the conversation component of the watson app
+
+the app will use diff services like diov
+
+cool ya am gonna have to stop here its info overload
+
+i feel, but jus know im working, looks like uv done a lot
+
+most of it just structural but ya,
+a k
+
+maand ke s
+
+make something understandable for idiots
+
+that would have to be after i get everything working, and can reflect on the documentation to make it newbie friendly
+
+right now its just development friendly, so i can know how to work
+
+this is the encrypted file that was hacked

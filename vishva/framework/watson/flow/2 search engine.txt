@@ -1,0 +1,4 @@
+Once the set of query reformulations has been generated,
+each rewrite is formulated as a search engine
+query and sent to a search engine from which
+page summaries are collected and analyzed.

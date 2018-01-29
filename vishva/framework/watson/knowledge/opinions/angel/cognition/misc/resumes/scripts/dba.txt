@@ -1,0 +1,19 @@
+Stars paperless sytstem. 
+
+TimesTen - in-memory, relational database management system with persistence and recoverability
+
+PowerShell - is a task automation and configuration management framework from Microsoft, consisting of a command-line shell and associated scripting language built on the .NET Framework.
+
+consolidate services
+
+how many DB instances on a server
+
+job description
+installing
+upgrade
+migrating from systems
+backups recovery
+cost analysis
+storage capacity and planning
+performance monitoring and tuning
+assist developers troubleshoot
